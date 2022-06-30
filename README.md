@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá! Eu me chamo Erick Kuwahara e sou Desenvolvedor Front-End
 
+👨‍💻 Estudando para tornar Desenvolvedor Full-Stack
+
+<br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=ErickKS&show_icons=true&theme=github_dark&hide=prs,issues" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickKS&layout=compact&theme=github_dark" />
+</a>
 <!--
-**ErickKS/ErickKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div style="display = inline_block"><br>
+  <img aling="center" width="40" height="40" margin="0 20" alt="hmtl" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img aling="center" width="40" height="40" margin="0 20" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img aling="center" width="40" height="40" margin="0 20" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img aling="center" width="40" height="40" margin="0 20" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+</div>
 -->
