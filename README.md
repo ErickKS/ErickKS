@@ -1,6 +1,6 @@
 ### Olá! Eu me chamo Erick Kuwahara e sou Desenvolvedor Front-End
 
-👨‍💻 Estudando para tornar Desenvolvedor Full-Stack
+👨‍💻 Estudando para ser Desenvolvedor Full-Stack
 
 <br>
 
