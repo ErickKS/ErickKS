@@ -4,10 +4,10 @@
 
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ErickKS/">
   <img width="54%" src="https://github-readme-stats.vercel.app/api?username=ErickKS&show_icons=true&theme=github_dark&hide=prs,issues" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ErickKS/">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickKS&layout=compact&theme=github_dark" />
 </a>
 <!--
