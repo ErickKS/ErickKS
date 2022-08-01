@@ -1,4 +1,4 @@
-### Olá! Eu me chamo Erick Kuwahara e sou Desenvolvedor Front-End
+### Hi! My name is Erick Kuwahara and I'm a Front End Developer
 
 <br>
 
