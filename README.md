@@ -1,16 +1,30 @@
-<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F0A400&width=435&lines=Hello!+My+name+is+Erick+Kuwahara;I'm+a+Front+End+Developer" alt="Typing SVG" /></a>
-
-<a href="https://github.com/ErickKS/">
-  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=ErickKS&show_icons=true&theme=github_dark&hide=prs,issues" />
-</a>
-<a href="https://github.com/ErickKS/">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickKS&layout=compact&theme=github_dark" />
-</a>
-<!--
-<div style="display = inline_block"><br>
-  <img aling="center" width="40" height="40" margin="0 20" alt="hmtl" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img aling="center" width="40" height="40" margin="0 20" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img aling="center" width="40" height="40" margin="0 20" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img aling="center" width="40" height="40" margin="0 20" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+<div align=center>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F0A400&center=true&width=435&lines=Hello!+My+name+is+Erick+Kuwahara;I'm+a+Front+End+Developer" alt="Typing SVG" /></a>
 </div>
--->
+
+<br>
+
+<div align=center>
+  <a href="https://github.com/ErickKS/">
+    <img "align=right" src="https://github-readme-stats.vercel.app/api?username=ErickKS&show_icons=true&icon_color=F0A400&theme=vision-friendly-dark&&bg_color=00000000&hide_title=true&hide_border=true&hide=prs,issues" />
+  </a>
+</div>
+
+<br>
+<hr>
+
+<h3 align="center"><img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/> R E P O S I T O R I E S <img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/></h3>
+
+<br> 
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ErickKS/aria-business" title="Aria Business"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickKS&repo=aria-business&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10"></a>
+  <a align="right" href="https://github.com/ErickKS/sync" title="Aria Business"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickKS&repo=sync&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10"></a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ErickKS/pomodoro-timer" title="Aria Business"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickKS&repo=pomodoro-timer&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10"></a>
+  <a align="right" href="https://github.com/ErickKS/calculator" title="Aria Business"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickKS&repo=calculator&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10"></a>
+</div>
