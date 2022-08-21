@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F0A400&width=435&lines=Hello!+My+name+is+Erick+Kuwahara;I'm+a+Front+End+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F0A400&width=435&lines=Hello!+My+name+is+Erick+Kuwahara;I'm+a+Front+End+Developer" alt="Typing SVG" /></a>
 
 <a href="https://github.com/ErickKS/">
   <img width="54%" src="https://github-readme-stats.vercel.app/api?username=ErickKS&show_icons=true&theme=github_dark&hide=prs,issues" />
