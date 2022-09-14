@@ -12,11 +12,11 @@
 
 <br>
 
-<div align=center>
-  <a href="linkedin.com/in/erick-kuwahara">
-    <img src="https://img.shields.io/badge/-Erick%20Kuwahara-c98a00?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-kuwahara" />
+<p align=center>
+  <a href="https://www.linkedin.com/in/erick-kuwahara">
+    <img src="https://img.shields.io/badge/-Erick%20Kuwahara-c98a00?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-kuwahara"/>
   </a>
-</div>
+</p>
 
 <br>
 <hr>
