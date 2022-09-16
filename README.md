@@ -10,15 +10,21 @@
   </a>
 </div>
 
-<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" tittle="HTML" width="30">
+  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" tittle="CSS" width="30">
+  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" tittle="JavaScript" width="25">
+  <img src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" tittle="Git" width="25">
+</div>
 
-<p align=center>
+<br><br>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/erick-kuwahara">
-    <img src="https://img.shields.io/badge/-Erick%20Kuwahara-c98a00?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-kuwahara"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-c98a00?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-kuwahara"/>
   </a>
 </p>
 
-<br>
 <hr>
 
 <h3 align="center"><img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>&nbsp;&nbsp;B E S T &nbsp; R E P O S I T O R I E S&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/></h3>
