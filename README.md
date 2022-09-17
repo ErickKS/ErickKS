@@ -11,19 +11,17 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" tittle="HTML" width="30">
-  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" tittle="CSS" width="30">
-  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" tittle="JavaScript" width="25">
-  <img src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" tittle="Git" width="25">
+  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <!--
+  <img alt="React" src="https://img.shields.io/badge/react%-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=%233178C6"/>
+  -->
 </div>
 
 <br><br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/erick-kuwahara">
-    <img src="https://img.shields.io/badge/-LinkedIn-c98a00?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-kuwahara"/>
-  </a>
-</p>
 
 <hr>
 
@@ -48,3 +46,15 @@
 <h4 align="center">
   <a href="https://github.com/ErickKS?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+<br><br>
+
+<hr>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/erick-kuwahara">
+    <img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"/>
+  </a>
+</p>
