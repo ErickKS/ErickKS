@@ -11,16 +11,26 @@
 </div>
 
 <div align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%E34F26.svg?&style=for-the-badge&logo=html5&logoColor=E34F26&color=282828"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%1572B6.svg?&style=for-the-badge&logo=css3&logoColor=1572B6&color=282828"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=282828"/>
   <br>
-  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=%233178C6"/>
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/react%20-%61DAFB.svg?&style=for-the-badge&logo=react&logoColor=61DAFB&color=282828"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=3178C6&color=282828"/>
+  <img alt="Git" src="https://img.shields.io/badge/git%20-%F05032.svg?&style=for-the-badge&logo=git&logoColor=F05032&color=282828"/>
 </div>
 
 <br><br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/erick-kuwahara">
+    <img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=0A66C2&color=282828" target="_blank"/>
+  </a>
+  &nbsp;
+  <a href="https://erick-kuwahara.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio%20-%F0A400.svg?&style=for-the-badge&logo=Netlify&logoColor=00C7B7&color=282828" target="_blank"/>
+  </a>
+</div>
 
 <hr>
 
@@ -55,13 +65,3 @@
 <h4 align="center">
   <a href="https://github.com/ErickKS?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-<hr>
-
-<br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/erick-kuwahara">
-    <img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"/>
-  </a>
-</p>
