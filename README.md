@@ -6,7 +6,7 @@
 
 <div align=center>
   <a href="https://github.com/ErickKS/">
-    <img src="https://github-readme-stats.vercel.app/api?username=ErickKS&show_icons=true&icon_color=F0A400&theme=vision-friendly-dark&&bg_color=00000000&hide_title=true&hide_border=true&hide=prs,issues" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ErickKS&show_icons=true&icon_color=F0A400&theme=vision-friendly-dark&&bg_color=00000000&hide_title=true&hide_border=true&hide=prs,issues" />
   </a>
 </div>
 
@@ -40,11 +40,11 @@
 
 <div width="100%" align="center">
   <a align="center" href="https://github.com/ErickKS/weather-app" title="Weather App">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickKS&repo=weather-app&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=weather-app&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a align="center" href="https://github.com/ErickKS/quiz" title="Quiz">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickKS&repo=quiz&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=quiz&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
   </a>
 </div>
 
@@ -52,11 +52,11 @@
 
 <div width="100%" align="center">
   <a align="center" href="https://github.com/ErickKS/multi-step-form-react" title="Multi-step Form">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickKS&repo=multi-step-form-react&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=multi-step-form-react&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;  
   <a align="center" href="https://github.com/ErickKS/dashboard-react" title="Dashboard">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickKS&repo=dashboard-react&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=dashboard-react&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
   </a>
 </div>
 
