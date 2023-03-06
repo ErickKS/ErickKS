@@ -27,8 +27,8 @@
     <img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=0A66C2&color=282828" target="_blank"/>
   </a>
   &nbsp;
-  <a href="https://erick-kuwahara.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio%20-%F0A400.svg?&style=for-the-badge&logo=Netlify&logoColor=00C7B7&color=282828" target="_blank"/>
+  <a href="https://erick-kuwahara.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio%20-%F0A400.svg?&style=for-the-badge&logo=Vercel&logoColor=FFF&color=282828" target="_blank"/>
   </a>
 </div>
 
