@@ -55,8 +55,8 @@
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=react-multi-step-form&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;  
-  <a align="center" href="https://github.com/ErickKS/react-dashboard" title="Dashboard">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=react-dashboard&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
+  <a align="center" href="https://github.com/ErickKS/next-shop" title="Shop">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=next-shop&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
   </a>
 </div>
 
