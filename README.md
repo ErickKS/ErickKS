@@ -16,6 +16,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=282828"/>
   <br>
   <img alt="React" src="https://img.shields.io/badge/react%20-%61DAFB.svg?&style=for-the-badge&logo=react&logoColor=61DAFB&color=282828"/>
+  <img alt="React" src="https://img.shields.io/badge/next.js%20-%61DAFB.svg?&style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&color=282828"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=3178C6&color=282828"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%F05032.svg?&style=for-the-badge&logo=git&logoColor=F05032&color=282828"/>
 </div>
