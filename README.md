@@ -1,35 +1,37 @@
 <div align=center>
-  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F0A400&center=true&width=435&lines=Hello!+My+name+is+Erick+Kuwahara;I'm+a+Front+End+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FFFFFF&center=true&width=435&lines=Hello!+My+name+is+Erick+Kuwahara;I'm+a+Full+Stack+Developer" alt="Typing SVG" /></a>
 </div>
 
 <br />
 
 <div align=center>
   <a href="https://github.com/ErickKS/">
-    <img src="https://github-readme-stats.vercel.app/api?username=ErickKS&show_icons=true&icon_color=F0A400&theme=vision-friendly-dark&bg_color=00000000&hide_title=true&hide_border=true&hide=prs&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ErickKS&show_icons=true&icon_color=FFFFFF&theme=dark&bg_color=FFFFFF00&hide_title=true&hide_border=true&hide=prs&include_all_commits=true" />
   </a>
 </div>
 
 <div align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%E34F26.svg?&style=for-the-badge&logo=html5&logoColor=E34F26&color=282828"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%1572B6.svg?&style=for-the-badge&logo=css3&logoColor=1572B6&color=282828"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=282828"/>
-  <br>
-  <img alt="React" src="https://img.shields.io/badge/react%20-%61DAFB.svg?&style=for-the-badge&logo=react&logoColor=61DAFB&color=282828"/>
-  <img alt="React" src="https://img.shields.io/badge/next.js%20-%61DAFB.svg?&style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&color=282828"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=3178C6&color=282828"/>
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%F05032.svg?&style=for-the-badge&logo=git&logoColor=F05032&color=282828"/>
+  <img alt="Type" src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/react-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&color=FFFFFF" />
+  <br/>
+  <img alt="Type" src="https://img.shields.io/badge/java-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/spring-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/python-000000?style=for-the-badge&color=FFFFFF" />
+  <br/>
+  <img alt="Type" src="https://img.shields.io/badge/react_native-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/kotlin-000000?style=for-the-badge&color=FFFFFF" />
 </div>
 
 <br><br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/erick-kuwahara">
-    <img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=0A66C2&color=282828" target="_blank"/>
+    <img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
   &nbsp;
   <a href="https://erick-kuwahara.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio%20-%F0A400.svg?&style=for-the-badge&logo=Vercel&logoColor=FFF&color=282828" target="_blank"/>
+    <img src="https://img.shields.io/badge/Portfolio%20-%FFFFFF.svg?&style=for-the-badge&logo=Vercel&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
 </div>
 
@@ -41,11 +43,11 @@
 
 <div width="100%" align="center">
   <a align="center" href="https://github.com/ErickKS/weather-app" title="Weather App">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=weather-app&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=weather-app&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a align="center" href="https://github.com/ErickKS/pomodoro-timer" title="Pomodoro Timer">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=pomodoro-timer&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=pomodoro-timer&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
 </div>
 
@@ -53,11 +55,11 @@
 
 <div width="100%" align="center">
   <a align="center" href="https://github.com/ErickKS/cycle-x" title="Cycle-X">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=cycle-x&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=cycle-x&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a align="center" href="https://github.com/ErickKS/health-nexus" title="Health Nexus">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=health-nexus&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ErickKS&repo=health-nexus&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
 </div>
 
