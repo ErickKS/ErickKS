@@ -20,7 +20,6 @@
   <img alt="Type" src="https://img.shields.io/badge/python-000000?style=for-the-badge&color=FFFFFF" />
   <br/>
   <img alt="Type" src="https://img.shields.io/badge/react_native-000000?style=for-the-badge&color=FFFFFF" />
-  <img alt="Type" src="https://img.shields.io/badge/kotlin-000000?style=for-the-badge&color=FFFFFF" />
 </div>
 
 <br><br>
