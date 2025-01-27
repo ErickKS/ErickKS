@@ -1,5 +1,5 @@
 <div align=center>
-  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FFFFFF&center=true&width=520&lines=Hey+there!+My+name+is+Erick+Kuwahara;I'm+an+Artificial+Intelligence+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FFFFFF&center=true&width=520&lines=Hey+there!+My+name+is+Erick+Kuwahara;I'm+an+Software+Developer" alt="Typing SVG" /></a>
 </div>
 
 <br />
@@ -15,28 +15,30 @@
   <img alt="Type" src="https://img.shields.io/badge/react-000000?style=for-the-badge&color=FFFFFF" />
   <img alt="Type" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&color=FFFFFF" />
   <br/>
-  <img alt="Type" src="https://img.shields.io/badge/java-000000?style=for-the-badge&color=FFFFFF" />
-  <img alt="Type" src="https://img.shields.io/badge/spring-000000?style=for-the-badge&color=FFFFFF" />
-  <img alt="Type" src="https://img.shields.io/badge/python-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/nest.js-000000?style=for-the-badge&color=FFFFFF" />
   <br/>
-  <img alt="Type" src="https://img.shields.io/badge/react_native-000000?style=for-the-badge&color=FFFFFF" />
+  <img alt="Type" src="https://img.shields.io/badge/python-000000?style=for-the-badge&color=FFFFFF" />
 </div>
 
 <br><br>
 
 <div align="center">
+  <img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>&nbsp;
   <a href="https://www.linkedin.com/in/erick-kuwahara">
-    <img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=000000&color=FFFFFF" target="_blank"/>
+    <img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=logmein&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
   &nbsp;
   <a href="https://erick-kuwahara.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio%20-%FFFFFF.svg?&style=for-the-badge&logo=Vercel&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
+    &nbsp;
+  <img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>
 </div>
 
-<hr>
+<!--
 
-<h3 align="center"><img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>&nbsp;&nbsp;B E S T &nbsp; R E P O S I T O R I E S&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/></h3>
+<hr>
 
 <br> 
 
@@ -67,3 +69,4 @@
 <h4 align="center">
   <a href="https://github.com/ErickKS?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+-->
