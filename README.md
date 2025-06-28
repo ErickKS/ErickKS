@@ -28,11 +28,11 @@
   <a href="https://www.linkedin.com/in/erick-kuwahara">
     <img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=logmein&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
-  &nbsp;
+<!--   &nbsp;
   <a href="https://erick-kuwahara.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio%20-%FFFFFF.svg?&style=for-the-badge&logo=Vercel&logoColor=000000&color=FFFFFF" target="_blank"/>
-  </a>
-    &nbsp;
+  </a> -->
+  &nbsp;
   <img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>
 </div>
 
